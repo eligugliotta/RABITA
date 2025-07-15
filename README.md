@@ -9,10 +9,10 @@ RĀBIṬA is a research project funded under Italy’s National Recovery and Res
 ### The project title, RĀBIṬA, is an Arabic word (رابطة) meaning bond, connection, or union.
 *In this project, the term carries a dual symbolic meaning: on the one hand, it represents the connection between texts, data, and digital tools, with the goal of building interoperable resources; on the other hand, it evokes the link between languages, people, and cultures, reflecting the deeply intercultural and humanistic nature of the initiative.*
 
-### Project purpose
+<!-- ### Project purpose
 
 
-RĀBIṬA aims to bridge the gap between traditional educational tools and interoperable digital resources for the Arabic language. The project plans to create an open-access, digitally annotated corpus of Arabic literary texts, suitable both for university-level teaching and for linguistic and computational research.
+RĀBIṬA aims to bridge the gap between traditional educational tools and interoperable digital resources for the Arabic language. The project plans to create an open-access, digitally annotated corpus of Arabic literary texts, suitable both for university-level teaching and for linguistic and computational research. -->
 
 ### Project purpose
 
@@ -24,13 +24,9 @@ RĀBIṬA aims to bridge the gap between traditional educational tools and inter
 * Textual annotation and normalization to ensure consistency, readability, and preparation of texts for automatic analysis.
 * Standardized markup with linguistic, philological, and didactic metadata, to enable interoperability with Digital Humanities tools and resources.
 * Design of interactive educational pathways based on the encoded texts.
-<br />
 
-* Analysis of the image contents (Image_activity, Image_object, Image_context).
-* Gender classification (Gender_label): Classification by gender of the image subjects (male/female/mixed).
-
-The last levels of analysis were performed only on the "human SAND sub-corpus". This subset includes posts where a human subject was recognized and classified in the "Gender_label" column. Posts without a human subject are labeled "No_human" in the "Gender_label" column. For these "non-human" posts, the three columns for image content analyses contain the token "_not_analyzed_" to indicate that these analyses were not performed.
-  
+<!-- The last levels of analysis were performed only on the "human SAND sub-corpus". This subset includes posts where a human subject was recognized and classified in the "Gender_label" column. Posts without a human subject are labeled "No_human" in the "Gender_label" column. For these "non-human" posts, the three columns for image content analyses contain the token "_not_analyzed_" to indicate that these analyses were not performed.
+   -->
 ### Resources and impact
 
 The project, which started in May 2025, is scheduled to run until May 2027 and includes:
