@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+*.wav
+*.mp3
+
+.DS_Store
+
+ocr_cache/
+tts_cache/
+
+*.log
