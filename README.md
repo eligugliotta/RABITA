@@ -1,18 +1,11 @@
 # RĀBIṬA
 ## Resources for Arabic: Bridging Interoperable Texts and Annotation
 
-<!-- This repository provides a brief description and houses RĀBIṬA data -->
-<!-- * [Gugliotta, E. (2024). *Comparative Analysis of Textual and Visual Contents on Saudi Tourism Instagram Pages* forthcoming]()
-* [Gugliotta, E. (2024). Gender Representation in Saudi Tourism Social Media. Testo e Senso, 1(28), 351-368.](https://testoesenso.it/index.php/testoesenso/article/view/750) -->
 RĀBIṬA is a research project funded under Italy’s National Recovery and Resilience Plan (PNRR) – Mission 4 “Education and Research”, Component 2 “From Research to Business”, Investment 1.2 “Funding for projects presented by young researchers”, with resources from the European NextGenerationEU funds. The project is based at the University of Sassari, under the direction of Dr. Elisa Gugliotta ([Department of History, Human Sciences and Education](https://www.dissuf.uniss.it/it/ricerca/aree-di-ricerca)).
 
 ### The project title, RĀBIṬA, is an Arabic word (رابطة) meaning bond, connection, or union.
 *In this project, the term carries a dual symbolic meaning: on the one hand, it represents the connection between texts, data, and digital tools, with the goal of building interoperable resources; on the other hand, it evokes the link between languages, people, and cultures, reflecting the deeply intercultural and humanistic nature of the initiative.*
 
-<!-- ### Project purpose
-
-
-RĀBIṬA aims to bridge the gap between traditional educational tools and interoperable digital resources for the Arabic language. The project plans to create an open-access, digitally annotated corpus of Arabic literary texts, suitable both for university-level teaching and for linguistic and computational research. -->
 
 ### Project purpose
 
