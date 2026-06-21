@@ -25,8 +25,7 @@ RĀBIṬA aims to bridge the gap between traditional educational tools and inter
 * Standardized markup with linguistic, philological, and didactic metadata, to enable interoperability with Digital Humanities tools and resources.
 * Design of interactive educational pathways based on the encoded texts.
 
-<!-- The last levels of analysis were performed only on the "human SAND sub-corpus". This subset includes posts where a human subject was recognized and classified in the "Gender_label" column. Posts without a human subject are labeled "No_human" in the "Gender_label" column. For these "non-human" posts, the three columns for image content analyses contain the token "_not_analyzed_" to indicate that these analyses were not performed.
-   -->
+
 ### Resources and impact
 
 The project, which started in May 2025, is scheduled to run until May 2027 and includes:
@@ -46,48 +45,49 @@ The project involves collaboration with the CNR-ILC (Institute for Computational
 
 <br />
 
-<!-- SAND numbers: -->
-
-<!--
-||      **TOTAL NUMBER OF POSTS**       ||
-|:----------------:|:-:|:----------------:|
-|                  |249                 ||
-| **Arabic posts** || **English posts** ||
-|          122     || 127               ||
--->
-
-<!-- 
-|                  | **Posts** | **Original Texts (words/tokens)** | **Valid. Captions (words/tokens)** | **TOTAL (words/tokens)** |
-|:----------------:|:---------:|:--------------------------:|:---------------------------:|:---------------------------:|
-| **Arabic page**  |    122    |          2.524 / 14.339      |           1.033 / 3.917     |   3.557 / 18.256    |
-| **English page** |    127    |          3.688 / 17.969      |           1.103 / 4.088     |   4.791 / 22.057    |
-| **TOTAL**        |    249    |          6.212 / 32.308      |           2.136 / 8.005     |   8.348 / 40.313    | -->
-
 
 ### *License*
 
 Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
 
-<!--
-<br />
+
 
 ### *Citation* 
 
 Please cite this work as: 
 
-
-
 ````bibtex
-@inproceedings{gugliotta-etal-wanlp2020, 
-    title={An Empirical Analysis of Task Relations in the Multi-Task Annotation of an Arabizi Corpus}, 
-    author={Gugliotta, Elisa and Dinarelli, Marco}, 
-    booktitle={The 4th Conference on Language, Data and Knowledge (LDK 2023)}, 
-    year={2023},
+@incollection{gugliotta_tarquini_2025_teaching_arabic,
+  author    = {Gugliotta, Elisa and Tarquini, Maura},
+  title     = {Teaching Arabic through Literature with a Communicative and Critical Approach to Awrāq {ʿIṣṣām} ʿAbd al-ʿĀṭī},
+  booktitle = {Educating for Differences: Territories, Encounters and European Pedagogical Perspectives},
+  editor     = {Guerrini, Valentina},
+  publisher  = {Pensa MultiMedia},
+  year       = {2025},
+  isbn       = {979-12-5568-379-7},
+  pages      = {163--192},
+  url        = {https://www.pensamultimedia.it/libro/9791255683797}
 }
 
-````
-per decriptare: dovranno istallare gpg se non l'hanno già e poi lanciare questo comando: gpg -d SAND_images.tar.gz.gpg > SAND_images.tar.gz - la password da inserire nella shermata che uscirà è NomeConfANNO - su wp è salavata questa frase con la mot corretta.
-<br />
--->
+@article{tarquini2025ocr,
+  title={From OCR to Content Interpretation: Towards a Scalable Workflow for Arabic Literature in the Digital Humanities},
+  author={Tarquini, Maura and Gugliotta, Elisa},
+  journal={Testo e Senso},
+  volume={1},
+  number={29},
+  pages={115--128},
+  year={2025},
+  url = {https://testoesenso.it/index.php/testoesenso/article/view/806}
+}
+
+@inproceedings{gugliotta-tarquini-AIUCD, 
+    title={Ça y est : Annotating Arabic Texts for Teaching}, 
+    author={Gugliotta, Elisa and Tarquini, Maura}, 
+    booktitle={ Digitale e Public Engagement - Pratiche e prospettive nelle DIgital Humanities (AIUCD 2026)}, 
+    year={2026},
+    pages={658--664},
+    url = {https://zenodo.org/records/20785399}
+}
+
 
 

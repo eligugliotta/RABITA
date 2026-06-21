@@ -1,0 +1,5 @@
+camel_tools==1.5.7
+torch==2.9.1
+transformers==4.43.4
+camel-kenlm==2025.9.16
+tqdm==4.67.1

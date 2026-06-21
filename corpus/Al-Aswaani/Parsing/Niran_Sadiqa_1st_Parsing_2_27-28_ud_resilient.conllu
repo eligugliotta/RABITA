@@ -1,0 +1,247 @@
+# sent_id = s1
+# text = تحرر عقلي من الخرافات دفعة واحدة وأنا فخور بذلك، فقد عرفت رجالاً كثيرين – بينهم أذكياء ومثقفون – أضاعوا العمر في الأوهام، عقائد ونظريات خدعتهم فأمضوا سنوات يلاحقونها كالسراب: الوطنية، الدين، الماركسية.
+1	تحرر	تحرر	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=p|vox=a|mod=i|gen=m|num=s|stt=na|cas=na|per=3|rat=n|token_type=baseword	0	root	_	_
+2	عقل	عقل	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=c|cas=u|per=na|rat=i|token_type=baseword	1	nsubj	_	_
+3	+ي	+ي	PRON	_	catib6=NOM|pos=pron|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=d|cas=g|per=1|rat=na|token_type=enc0	2	nmod	_	_
+4	من	من	ADP	_	catib6=PRT|pos=prep|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	5	case	_	_
+5	الخرافات	خرافة	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=f|num=p|stt=d|cas=g|per=na|rat=i|token_type=baseword	1	obl:arg	_	_
+6	دفعة	دفعة	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=i|cas=a|per=na|rat=i|token_type=baseword	1	obl	_	_
+7	واحدة	واحد	NUM	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=i|cas=a|per=na|rat=n|token_type=baseword	6	amod	_	_
+8	و+	و+	CCONJ	_	catib6=PRT|pos=conj|prc3=0|prc2=0|prc1=0|prc0=na|per=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|enc0=0|rat=na|token_type=prc2	10	cc	_	_
+9	أنا	أنا	PRON	_	catib6=NOM|pos=pron|prc3=0|prc2=0|prc1=0|prc0=0|per=1|asp=na|vox=na|mod=na|gen=m|num=s|stt=i|cas=n|enc0=0|rat=y|token_type=baseword	10	nsubj	_	_
+10	فخور	فخور	ADJ	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=i|cas=n|per=na|rat=n|token_type=baseword	1	conj	_	_
+11	ب+	ب+	ADP	_	catib6=PRT|pos=prep|prc3=0|prc2=0|prc1=0|prc0=na|per=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|enc0=0|rat=na|token_type=prc1	12	case	_	_
+12	ذلك	ذلك	DET	_	catib6=NOM|pos=pron_dem|prc3=0|prc2=0|prc1=0|prc0=0|per=na|asp=na|vox=na|mod=na|gen=m|num=s|stt=i|cas=u|enc0=0|rat=y|token_type=baseword	10	obl:arg	_	_
+13	,	,	PUNCT	_	catib6=PNX|pos=punc|prc3=na|prc2=na|prc1=na|prc0=na|enc0=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	12	punct	_	_
+14	ف+	ف+	CCONJ	_	catib6=PRT|pos=conj|prc3=0|prc2=0|prc1=0|prc0=na|per=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|enc0=0|rat=na|token_type=prc2	16	cc	_	_
+15	قد	قد	AUX	_	catib6=PRT|pos=part_verb|prc3=0|prc2=0|prc1=0|prc0=na|per=na|asp=i|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|enc0=0|rat=na|token_type=baseword	16	aux	_	_
+16	عرفت	عرف	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=p|vox=a|mod=i|gen=m|num=s|stt=na|cas=na|per=1|rat=n|token_type=baseword	1	conj	_	_
+17	رجالا	رجل	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=p|stt=i|cas=a|per=na|rat=r|token_type=baseword	16	obj	_	_
+18	كثيرين	كثير	ADJ	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=p|stt=i|cas=a|per=na|rat=n|token_type=baseword	17	amod	_	_
+19	-	-	PUNCT	_	catib6=PNX|pos=punc|prc3=na|prc2=na|prc1=na|prc0=na|enc0=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	22	punct	_	_
+20	بين	بين	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=c|cas=a|per=na|rat=i|token_type=baseword	21	case	_	_
+21	+هم	+هم	PRON	_	catib6=NOM|pos=pron|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=p|stt=d|cas=g|per=3|rat=na|token_type=enc0	22	obl	_	_
+22	أذكياء	ذكي	ADJ	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=p|stt=c|cas=n|per=na|rat=n|token_type=baseword	17	nmod	_	_
+23	و+	و+	CCONJ	_	catib6=PRT|pos=conj|prc3=0|prc2=0|prc1=0|prc0=na|per=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|enc0=0|rat=na|token_type=prc2	24	cc	_	_
+24	مثقفون	مثقف	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|per=na|asp=na|vox=na|mod=na|gen=m|num=p|stt=i|cas=n|enc0=0|rat=r|token_type=baseword	22	conj	_	_
+25	-	-	PUNCT	_	catib6=PNX|pos=punc|prc3=na|prc2=na|prc1=na|prc0=na|enc0=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	24	punct	_	_
+26	أضاعوا	أضاع	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=p|vox=a|mod=i|gen=m|num=p|stt=na|cas=na|per=3|rat=n|token_type=baseword	17	acl	_	_
+27	العمر	عمر	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=d|cas=a|per=na|rat=i|token_type=baseword	26	obj	_	_
+28	في	في	ADP	_	catib6=PRT|pos=prep|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	29	case	_	_
+29	الأوهام	وهم	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=m|num=p|stt=d|cas=g|per=na|rat=i|token_type=baseword	26	obl	_	_
+30	,	,	PUNCT	_	catib6=PNX|pos=punc|prc3=na|prc2=na|prc1=na|prc0=na|enc0=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	29	punct	_	_
+31	عقائد	عقيدة	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=f|num=p|stt=c|cas=a|per=na|rat=i|token_type=baseword	26	conj	_	_
+32	و+	و+	CCONJ	_	catib6=PRT|pos=conj|prc3=0|prc2=0|prc1=0|prc0=na|per=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|enc0=0|rat=na|token_type=prc2	33	cc	_	_
+33	نظريات	نظرية	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|per=na|asp=na|vox=na|mod=na|gen=f|num=p|stt=i|cas=a|enc0=0|rat=i|token_type=baseword	31	conj	_	_
+34	خدعت	خدع	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=p|vox=a|mod=i|gen=f|num=s|stt=na|cas=na|per=3|rat=n|token_type=baseword	33	acl	_	_
+35	+هم	+هم	PRON	_	catib6=NOM|pos=pron|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=p|stt=d|cas=a|per=3|rat=na|token_type=enc0	34	obj	_	_
+36	ف+	ف+	CCONJ	_	catib6=PRT|pos=conj|prc3=0|prc2=0|prc1=0|prc0=na|per=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|enc0=0|rat=na|token_type=prc2	37	cc	_	_
+37	أمضوا	أمضى	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|per=3|asp=p|vox=a|mod=i|gen=m|num=p|stt=na|cas=na|enc0=0|rat=n|token_type=baseword	1	conj	_	_
+38	سنوات	سنة	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=f|num=p|stt=i|cas=a|per=na|rat=i|token_type=baseword	37	obj	_	_
+39	يلاحقون	لاحق	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=i|vox=a|mod=i|gen=m|num=p|stt=na|cas=na|per=3|rat=n|token_type=baseword	37	xcomp	_	_
+40	+ها	+ها	PRON	_	catib6=NOM|pos=pron|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=d|cas=a|per=3|rat=na|token_type=enc0	39	obj	_	_
+41	ك+	ك+	ADP	_	catib6=PRT|pos=prep|prc3=0|prc2=0|prc1=0|prc0=na|per=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|enc0=0|rat=na|token_type=prc1	42	case	_	_
+42	السراب	سراب	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|per=na|asp=na|vox=na|mod=na|gen=m|num=s|stt=d|cas=g|enc0=0|rat=i|token_type=baseword	39	obl	_	_
+43	:	:	PUNCT	_	catib6=PNX|pos=punc|prc3=na|prc2=na|prc1=na|prc0=na|enc0=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	44	punct	_	_
+44	الوطنية	وطنية	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=d|cas=n|per=na|rat=i|token_type=baseword	42	nmod	_	_
+45	,	,	PUNCT	_	catib6=PNX|pos=punc|prc3=na|prc2=na|prc1=na|prc0=na|enc0=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	46	punct	_	_
+46	الدين	دين	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=d|cas=n|per=na|rat=i|token_type=baseword	44	conj	_	_
+47	,	,	PUNCT	_	catib6=PNX|pos=punc|prc3=na|prc2=na|prc1=na|prc0=na|enc0=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	48	punct	_	_
+48	الماركسية	ماركسي	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=d|cas=n|per=na|rat=r|token_type=baseword	44	conj	_	_
+49	.	.	PUNCT	_	catib6=PNX|pos=punc|prc3=na|prc2=na|prc1=na|prc0=na|enc0=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	1	punct	_	_
+
+# sent_id = s2
+# text = كل هذه الكلمات البراقة تكشف لي زيفها في وقت مبكر.
+1	كل	كل	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=c|cas=n|per=na|rat=i|token_type=baseword	5	nsubj	_	_
+2	هذه	هذا	DET	_	catib6=NOM|pos=pron_dem|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=i|cas=u|per=na|rat=y|token_type=baseword	3	det	_	_
+3	الكلمات	كلمة	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=f|num=p|stt=d|cas=g|per=na|rat=i|token_type=baseword	1	nmod	_	_
+4	البراقة	براق	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=d|cas=g|per=na|rat=i|token_type=baseword	3	amod	_	_
+5	تكشف	كشف	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=i|vox=a|mod=u|gen=f|num=s|stt=na|cas=na|per=3|rat=n|token_type=baseword	0	root	_	_
+6	ل	ل	ADP	_	catib6=PRT|pos=prep|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	7	case	_	_
+7	+ي	+ي	PRON	_	catib6=NOM|pos=pron|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=d|cas=u|per=1|rat=na|token_type=enc0	5	obl:arg	_	_
+8	زيف	زيف	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=c|cas=a|per=na|rat=i|token_type=baseword	5	obj	_	_
+9	+ها	+ها	PRON	_	catib6=NOM|pos=pron|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=d|cas=g|per=3|rat=na|token_type=enc0	8	nmod	_	_
+10	في	في	ADP	_	catib6=PRT|pos=prep|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	11	case	_	_
+11	وقت	وقت	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=i|cas=g|per=na|rat=i|token_type=baseword	5	obl	_	_
+12	مبكر	مبكر	ADJ	_	catib6=NOM|pos=adj|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=i|cas=g|per=na|rat=n|token_type=baseword	11	amod	_	_
+13	.	.	PUNCT	_	catib6=PNX|pos=punc|prc3=na|prc2=na|prc1=na|prc0=na|enc0=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	5	punct	_	_
+
+# sent_id = s3
+# text = كان التخلص من الدين يسيرًا، أما الماركسية فاستغرقت وقتًا أطول.
+1	كان	كان	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=p|vox=a|mod=i|gen=m|num=s|stt=na|cas=na|per=3|rat=n|token_type=baseword	0	root	_	_
+2	التخلص	تخلص	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=d|cas=n|per=na|rat=i|token_type=baseword	5	nsubj	_	_
+3	من	من	ADP	_	catib6=PRT|pos=prep|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	4	case	_	_
+4	الدين	دين	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=d|cas=g|per=na|rat=i|token_type=baseword	2	nmod	_	_
+5	يسيرا	يسير	ADJ	_	catib6=NOM|pos=adj|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=i|cas=a|per=na|rat=n|token_type=baseword	1	xcomp	_	_
+6	,	,	PUNCT	_	catib6=PNX|pos=punc|prc3=na|prc2=na|prc1=na|prc0=na|enc0=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	5	punct	_	_
+7	أما	أما	PART	_	catib6=PRT|pos=part_focus|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	10	advmod:emph	_	_
+8	الماركسية	ماركسي	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=d|cas=n|per=na|rat=r|token_type=baseword	10	nsubj	_	_
+9	ف+	ف+	CCONJ	_	catib6=PRT|pos=conj|prc3=0|prc2=0|prc1=0|prc0=na|per=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|enc0=0|rat=na|token_type=prc2	8	cc	_	_
+10	استغرقت	ٱستغرق	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|per=3|asp=p|vox=a|mod=i|gen=f|num=s|stt=na|cas=na|enc0=0|rat=n|token_type=baseword	5	conj	_	_
+11	وقتا	وقت	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=i|cas=a|per=na|rat=i|token_type=baseword	10	obj	_	_
+12	أطول	أطول	_	_	catib6=_|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=-|num=-|stt=c|cas=a|per=na|rat=y|token_type=baseword	11	amod	_	_
+13	.	.	PUNCT	_	catib6=PNX|pos=punc|prc3=na|prc2=na|prc1=na|prc0=na|enc0=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	5	punct	_	_
+
+# sent_id = s4
+# text = أعترف أن في الماركسية جانبًا عقليًا يُحترم، كما أنها تترك في النفس أثرًا لا يزول بزوال الفكرة.
+1	أعترف	ٱعترف	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=i|vox=a|mod=u|gen=m|num=s|stt=na|cas=na|per=1|rat=n|token_type=baseword	0	root	_	_
+2	أن	أن	SCONJ	_	catib6=PRT|pos=conj_sub|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	4	mark	_	_
+3	في	في	ADP	_	catib6=PRT|pos=prep|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	4	case	_	_
+4	الماركسية	ماركسي	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=d|cas=g|per=na|rat=r|token_type=baseword	1	obl:arg	_	_
+5	جانبا	جانب	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=i|cas=a|per=na|rat=i|token_type=baseword	1	obj	_	_
+6	عقليا	عقلي	ADJ	_	catib6=NOM|pos=adj|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=i|cas=a|per=na|rat=n|token_type=baseword	5	amod	_	_
+7	يحترم	ٱحترم	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=i|vox=a|mod=u|gen=m|num=s|stt=na|cas=na|per=3|rat=n|token_type=baseword	5	acl	_	_
+8	,	,	PUNCT	_	catib6=PNX|pos=punc|prc3=na|prc2=na|prc1=na|prc0=na|enc0=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	7	punct	_	_
+9	كما	كما	CCONJ	_	catib6=PRT|pos=conj|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	12	cc	_	_
+10	أن	أن	SCONJ	_	catib6=PRT|pos=conj_sub|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	12	mark	_	_
+11	+ها	+ها	PRON	_	catib6=NOM|pos=pron|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=d|cas=u|per=3|rat=na|token_type=enc0	12	nsubj	_	_
+12	تترك	ترك	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=i|vox=a|mod=u|gen=f|num=s|stt=na|cas=na|per=3|rat=n|token_type=baseword	1	conj	_	_
+13	في	في	ADP	_	catib6=PRT|pos=prep|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	14	case	_	_
+14	النفس	نفس	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=d|cas=g|per=na|rat=i|token_type=baseword	12	obl	_	_
+15	أثرا	أثر	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=i|cas=a|per=na|rat=i|token_type=baseword	12	obj	_	_
+16	لا	لا	PART	_	catib6=PRT|pos=part_neg|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	17	advmod	_	_
+17	يزول	زال	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=i|vox=a|mod=u|gen=m|num=s|stt=na|cas=na|per=3|rat=n|token_type=baseword	15	acl	_	_
+18	ب+	ب+	ADP	_	catib6=PRT|pos=prep|prc3=0|prc2=0|prc1=0|prc0=na|per=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|enc0=0|rat=na|token_type=prc1	19	case	_	_
+19	زوال	زوال	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|per=na|asp=na|vox=na|mod=na|gen=m|num=s|stt=c|cas=g|enc0=0|rat=i|token_type=baseword	17	obl	_	_
+20	الفكرة	فكرة	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=d|cas=g|per=na|rat=i|token_type=baseword	19	nmod	_	_
+21	.	.	PUNCT	_	catib6=PNX|pos=punc|prc3=na|prc2=na|prc1=na|prc0=na|enc0=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	1	punct	_	_
+
+# sent_id = s5
+# text = ظللت ماركسيًا ملتزمًا لمدة عامين لكنني كنت أشعر دائمًا بأنني سوف أتحول.
+1	ظللت	ظل	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=p|vox=a|mod=i|gen=m|num=s|stt=na|cas=na|per=1|rat=n|token_type=baseword	0	root	_	_
+2	ماركسيا	ماركسي	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=i|cas=a|per=na|rat=r|token_type=baseword	1	obj	_	_
+3	ملتزما	ملتزم	ADJ	_	catib6=NOM|pos=adj|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=i|cas=a|per=na|rat=n|token_type=baseword	1	xcomp	_	_
+4	ل+	ل+	ADP	_	catib6=PRT|pos=prep|prc3=0|prc2=0|prc1=0|prc0=na|per=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|enc0=0|rat=na|token_type=prc1	5	case	_	_
+5	مدة	مدة	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|per=na|asp=na|vox=na|mod=na|gen=f|num=s|stt=c|cas=g|enc0=0|rat=i|token_type=baseword	3	obl	_	_
+6	عامين	عام	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=d|stt=i|cas=g|per=na|rat=i|token_type=baseword	5	nmod	_	_
+7	لكن	لكن	CCONJ	_	catib6=PRT|pos=conj|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	9	cc	_	_
+8	+ني	+ني	PRON	_	catib6=NOM|pos=pron|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=d|cas=u|per=1|rat=na|token_type=enc0	9	nsubj	_	_
+9	كنت	كان	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=p|vox=a|mod=i|gen=m|num=s|stt=na|cas=na|per=1|rat=n|token_type=baseword	1	conj	_	_
+10	أشعر	شعر	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=i|vox=a|mod=u|gen=m|num=s|stt=na|cas=na|per=1|rat=n|token_type=baseword	9	xcomp	_	_
+11	دائما	دائم	ADJ	_	catib6=NOM|pos=adj|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=i|cas=a|per=na|rat=n|token_type=baseword	10	obl	_	_
+12	ب+	ب+	ADP	_	catib6=PRT|pos=prep|prc3=0|prc2=0|prc1=0|prc0=na|per=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|enc0=0|rat=na|token_type=prc1	16	mark	_	_
+13	أن	أن	SCONJ	_	catib6=PRT|pos=conj_sub|prc3=0|prc2=0|prc1=0|prc0=na|per=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|enc0=0|rat=na|token_type=baseword	16	mark	_	_
+14	+ني	+ني	PRON	_	catib6=NOM|pos=pron|prc3=0|prc2=0|prc1=0|prc0=0|per=1|asp=na|vox=na|mod=na|gen=m|num=s|stt=d|cas=u|enc0=0|rat=na|token_type=enc0	16	nsubj	_	_
+15	سوف	سوف	AUX	_	catib6=PRT|pos=part_fut|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	16	aux	_	_
+16	أتحول	تحول	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=i|vox=a|mod=u|gen=m|num=s|stt=na|cas=na|per=1|rat=n|token_type=baseword	10	ccomp	_	_
+17	.	.	PUNCT	_	catib6=PNX|pos=punc|prc3=na|prc2=na|prc1=na|prc0=na|enc0=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	1	punct	_	_
+
+# sent_id = s6
+# text = لم أفهم قط لماذا ينبغي عليّ أن أضحّي من أجل مخلوقات سوقية كالعمال والفلاحين؟ كنت أراقب العامة وهم يتبادلون القفشات المبتذلة، أتأملهم في أيام الأعياد عندما يندفعون إلى الشوارع كالبهائم الهائجة، يدوسون بأقدامهم الثقيلة العمياء كل شيء جميل، عندئذٍ كانت كلمات ماركس العظيمة عنهم تتضاءل أمام احتقاري وكرهي.
+1	لم	لم	PART	_	catib6=PRT|pos=part_neg|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	2	advmod	_	_
+2	أفهم	فهم	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=i|vox=a|mod=u|gen=m|num=s|stt=na|cas=na|per=1|rat=n|token_type=baseword	0	root	_	_
+3	قط	قط	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=i|cas=u|per=na|rat=i|token_type=baseword	2	obl	_	_
+4	لماذا	لماذا	ADV	_	catib6=NOM|pos=adv_interrog|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=u|num=s|stt=i|cas=u|per=na|rat=y|token_type=baseword	5	obj	_	_
+5	ينبغي	ٱنبغى	_	_	catib6=_|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=i|vox=a|mod=u|gen=m|num=s|stt=na|cas=na|per=3|rat=na|token_type=baseword	2	ccomp	_	_
+6	على	على	ADP	_	catib6=PRT|pos=prep|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	7	case	_	_
+7	+ي	+ي	PRON	_	catib6=NOM|pos=pron|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=d|cas=u|per=1|rat=na|token_type=enc0	5	obl:arg	_	_
+8	أن	أن	SCONJ	_	catib6=PRT|pos=conj_sub|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	9	mark	_	_
+9	أضحي	أضحى	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=i|vox=a|mod=u|gen=m|num=s|stt=na|cas=na|per=1|rat=n|token_type=baseword	5	csubj	_	_
+10	من	من	ADP	_	catib6=PRT|pos=prep|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	12	case	_	_
+11	أجل	أجل	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=c|cas=g|per=na|rat=i|token_type=baseword	10	fixed	_	_
+12	مخلوقات	مخلوق	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=p|stt=i|cas=g|per=na|rat=i|token_type=baseword	9	obl:arg	_	_
+13	سوقية	سوقي	ADJ	_	catib6=NOM|pos=adj|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=i|cas=g|per=na|rat=n|token_type=baseword	12	amod	_	_
+14	ك+	ك+	ADP	_	catib6=PRT|pos=prep|prc3=0|prc2=0|prc1=0|prc0=na|per=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|enc0=0|rat=na|token_type=prc1	15	cc	_	_
+15	العمال	عامل	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|per=na|asp=na|vox=na|mod=na|gen=m|num=p|stt=d|cas=g|enc0=0|rat=r|token_type=baseword	12	appos	_	_
+16	و+	و+	CCONJ	_	catib6=PRT|pos=conj|prc3=0|prc2=0|prc1=0|prc0=na|per=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|enc0=0|rat=na|token_type=prc2	17	cc	_	_
+17	الفلاحين	فلاح	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|per=na|asp=na|vox=na|mod=na|gen=m|num=p|stt=d|cas=g|enc0=0|rat=r|token_type=baseword	15	conj	_	_
+18	?	?	PUNCT	_	catib6=PNX|pos=punc|prc3=na|prc2=na|prc1=na|prc0=na|enc0=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	2	punct	_	_
+19	كنت	كان	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=p|vox=a|mod=i|gen=m|num=s|stt=na|cas=na|per=1|rat=n|token_type=baseword	2	parataxis	_	_
+20	أراقب	راقب	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=i|vox=a|mod=u|gen=m|num=s|stt=na|cas=na|per=1|rat=n|token_type=baseword	19	xcomp	_	_
+21	العامة	عامة	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=d|cas=a|per=na|rat=i|token_type=baseword	20	obj	_	_
+22	و+	و+	SCONJ	_	catib6=PRT|pos=conj|prc3=0|prc2=0|prc1=0|prc0=na|per=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|enc0=0|rat=na|token_type=prc2	23	cc	_	_
+23	هم	هم	PRON	_	catib6=NOM|pos=pron|prc3=0|prc2=0|prc1=0|prc0=0|per=3|asp=na|vox=na|mod=na|gen=m|num=p|stt=i|cas=n|enc0=0|rat=y|token_type=baseword	24	nsubj	_	_
+24	يتبادلون	تبادل	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=i|vox=a|mod=i|gen=m|num=p|stt=na|cas=na|per=3|rat=n|token_type=baseword	19	xcomp	_	_
+25	القفشات	قفشة	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=f|num=p|stt=d|cas=a|per=na|rat=i|token_type=baseword	24	obj	_	_
+26	المبتذلة	مبتذل	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=d|cas=a|per=na|rat=i|token_type=baseword	25	amod	_	_
+27	,	,	PUNCT	_	catib6=PNX|pos=punc|prc3=na|prc2=na|prc1=na|prc0=na|enc0=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	28	punct	_	_
+28	أتأمل	تأمل	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=i|vox=a|mod=u|gen=m|num=s|stt=na|cas=na|per=1|rat=n|token_type=baseword	19	conj	_	_
+29	+هم	+هم	PRON	_	catib6=NOM|pos=pron|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=p|stt=d|cas=a|per=3|rat=na|token_type=enc0	28	obj	_	_
+30	في	في	ADP	_	catib6=PRT|pos=prep|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	31	case	_	_
+31	أيام	يوم	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=p|stt=c|cas=g|per=na|rat=i|token_type=baseword	28	obl	_	_
+32	الأعياد	عيد	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=m|num=p|stt=d|cas=g|per=na|rat=i|token_type=baseword	31	nmod	_	_
+33	عندما	عندم	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=i|cas=a|per=na|rat=i|token_type=baseword	34	mark	_	_
+34	يندفعون	ٱندفع	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=i|vox=a|mod=i|gen=m|num=p|stt=na|cas=na|per=3|rat=n|token_type=baseword	28	advcl	_	_
+35	إلى	إلى	ADP	_	catib6=PRT|pos=prep|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	36	case	_	_
+36	الشوارع	شارع	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=m|num=p|stt=d|cas=g|per=na|rat=i|token_type=baseword	34	obl	_	_
+37	ك+	ك+	ADP	_	catib6=PRT|pos=prep|prc3=0|prc2=0|prc1=0|prc0=na|per=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|enc0=0|rat=na|token_type=prc1	38	case	_	_
+38	البهائم	بهيمة	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|per=na|asp=na|vox=na|mod=na|gen=f|num=p|stt=d|cas=g|enc0=0|rat=i|token_type=baseword	36	appos	_	_
+39	الهائجة	هائج	ADJ	_	catib6=NOM|pos=adj|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=d|cas=g|per=na|rat=n|token_type=baseword	38	amod	_	_
+40	,	,	PUNCT	_	catib6=PNX|pos=punc|prc3=na|prc2=na|prc1=na|prc0=na|enc0=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	41	punct	_	_
+41	يدوسون	داس	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=i|vox=a|mod=i|gen=m|num=p|stt=na|cas=na|per=3|rat=n|token_type=baseword	28	conj	_	_
+42	ب+	ب+	ADP	_	catib6=PRT|pos=prep|prc3=0|prc2=0|prc1=0|prc0=na|per=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|enc0=0|rat=na|token_type=prc1	43	case	_	_
+43	أقدام	قدم	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|per=na|asp=na|vox=na|mod=na|gen=m|num=p|stt=c|cas=g|enc0=0|rat=i|token_type=baseword	41	obl:arg	_	_
+44	+هم	+هم	PRON	_	catib6=NOM|pos=pron|prc3=0|prc2=0|prc1=0|prc0=0|per=3|asp=na|vox=na|mod=na|gen=m|num=p|stt=d|cas=g|enc0=0|rat=na|token_type=enc0	43	nmod	_	_
+45	الثقيلة	ثقيل	ADJ	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=d|cas=g|per=na|rat=n|token_type=baseword	43	amod	_	_
+46	العمياء	أعمى	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=d|cas=g|per=na|rat=r|token_type=baseword	43	amod	_	_
+47	كل	كل	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=c|cas=a|per=na|rat=i|token_type=baseword	41	obj	_	_
+48	شيء	شيء	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=i|cas=u|per=na|rat=i|token_type=baseword	47	nmod	_	_
+49	جميل	جميل	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=i|cas=g|per=na|rat=i|token_type=baseword	48	amod	_	_
+50	,	,	PUNCT	_	catib6=PNX|pos=punc|prc3=na|prc2=na|prc1=na|prc0=na|enc0=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	49	punct	_	_
+51	عندئذ	عندئذ	ADV	_	catib6=NOM|pos=adv|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=u|num=s|stt=i|cas=u|per=na|rat=y|token_type=baseword	52	advmod	_	_
+52	كانت	كان	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=p|vox=a|mod=i|gen=f|num=s|stt=na|cas=na|per=3|rat=n|token_type=baseword	2	parataxis	_	_
+53	كلمات	كلمة	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=f|num=p|stt=c|cas=n|per=na|rat=i|token_type=baseword	52	nsubj	_	_
+54	ماركس	ماركس	PROPN	_	catib6=PROP|pos=noun_prop|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=i|cas=u|per=na|rat=r|token_type=baseword	53	nmod	_	_
+55	العظيمة	عظيم	ADJ	_	catib6=NOM|pos=adj|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=d|cas=n|per=na|rat=n|token_type=baseword	53	amod	_	_
+56	عن	عن	ADP	_	catib6=PRT|pos=prep|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	57	case	_	_
+57	+هم	+هم	PRON	_	catib6=NOM|pos=pron|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=p|stt=d|cas=u|per=3|rat=na|token_type=enc0	53	nmod	_	_
+58	تتضاءل	تضاءل	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=i|vox=a|mod=u|gen=f|num=s|stt=na|cas=na|per=3|rat=n|token_type=baseword	52	xcomp	_	_
+59	أمام	أمام	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=c|cas=a|per=na|rat=i|token_type=baseword	60	case	_	_
+60	احتقار	ٱحتقار	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=c|cas=u|per=na|rat=i|token_type=baseword	58	obl	_	_
+61	+ي	+ي	PRON	_	catib6=NOM|pos=pron|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=d|cas=g|per=1|rat=na|token_type=enc0	60	nmod	_	_
+62	و+	و+	CCONJ	_	catib6=PRT|pos=conj|prc3=0|prc2=0|prc1=0|prc0=na|per=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|enc0=0|rat=na|token_type=prc2	63	cc	_	_
+63	NOAN	كرهي	PROPN	_	catib6=PROP|pos=noun_prop|prc3=0|prc2=0|prc1=0|prc0=0|per=na|asp=na|vox=na|mod=na|gen=-|num=-|stt=i|cas=u|enc0=0|rat=i|token_type=baseword	60	conj	_	_
+64	.	.	PUNCT	_	catib6=PNX|pos=punc|prc3=na|prc2=na|prc1=na|prc0=na|enc0=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	2	punct	_	_
+
+# sent_id = s7
+# text = هل أناضل وأموت من أجل هؤلاء؟ إنهم حيوانات، لا يستحقون إلا الازدراء والإرهاب، هذه هي اللغة الوحيدة التي يفهمونها.
+1	هل	هل	PART	_	catib6=PRT|pos=part_interrog|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	2	advmod	_	_
+2	أناضل	ناضل	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=i|vox=a|mod=u|gen=m|num=s|stt=na|cas=na|per=1|rat=n|token_type=baseword	0	root	_	_
+3	و+	و+	CCONJ	_	catib6=PRT|pos=conj|prc3=0|prc2=0|prc1=0|prc0=na|per=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|enc0=0|rat=na|token_type=prc2	4	cc	_	_
+4	أموت	مات	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|per=1|asp=i|vox=a|mod=u|gen=m|num=s|stt=na|cas=na|enc0=0|rat=n|token_type=baseword	2	conj	_	_
+5	من	من	ADP	_	catib6=PRT|pos=prep|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	7	case	_	_
+6	أجل	أجل	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=c|cas=g|per=na|rat=i|token_type=baseword	5	fixed	_	_
+7	هؤلاء	هذا	DET	_	catib6=NOM|pos=pron_dem|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=p|stt=i|cas=u|per=na|rat=y|token_type=baseword	2	obl	_	_
+8	?	?	PUNCT	_	catib6=PNX|pos=punc|prc3=na|prc2=na|prc1=na|prc0=na|enc0=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	2	punct	_	_
+9	إن	إن	CCONJ	_	catib6=PRT|pos=verb_pseudo|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=i|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=n|token_type=baseword	11	advmod:emph	_	_
+10	+هم	+هم	PRON	_	catib6=NOM|pos=pron|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=p|stt=d|cas=u|per=3|rat=na|token_type=enc0	11	nsubj	_	_
+11	حيوانات	حيوان	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=p|stt=c|cas=n|per=na|rat=i|token_type=baseword	2	conj	_	_
+12	,	,	PUNCT	_	catib6=PNX|pos=punc|prc3=na|prc2=na|prc1=na|prc0=na|enc0=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	11	punct	_	_
+13	لا	لا	PART	_	catib6=PRT|pos=part_neg|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	14	advmod	_	_
+14	يستحقون	ٱستحق	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=i|vox=a|mod=i|gen=m|num=p|stt=na|cas=na|per=3|rat=n|token_type=baseword	11	conj	_	_
+15	إلا	إلا	ADP	_	catib6=PRT|pos=part|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	16	case	_	_
+16	الازدراء	ٱزدراء	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=d|cas=a|per=na|rat=i|token_type=baseword	14	obj	_	_
+17	و+	و+	CCONJ	_	catib6=PRT|pos=conj|prc3=0|prc2=0|prc1=0|prc0=na|per=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|enc0=0|rat=na|token_type=prc2	18	cc	_	_
+18	الإرهاب	إرهاب	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|per=na|asp=na|vox=na|mod=na|gen=m|num=s|stt=d|cas=a|enc0=0|rat=i|token_type=baseword	16	conj	_	_
+19	,	,	PUNCT	_	catib6=PNX|pos=punc|prc3=na|prc2=na|prc1=na|prc0=na|enc0=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	18	punct	_	_
+20	هذه	هذا	DET	_	catib6=NOM|pos=pron_dem|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=i|cas=u|per=na|rat=y|token_type=baseword	22	nsubj	_	_
+21	هي	هي	PRON	_	catib6=NOM|pos=pron|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=i|cas=n|per=3|rat=y|token_type=baseword	22	nmod	_	_
+22	اللغة	لغة	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=d|cas=n|per=na|rat=i|token_type=baseword	14	conj	_	_
+23	الوحيدة	وحيد	ADJ	_	catib6=NOM|pos=adj|prc3=0|prc2=0|prc1=0|prc0=Al_det|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=d|cas=n|per=na|rat=n|token_type=baseword	22	amod	_	_
+24	التي	الذي	PRON	_	catib6=NOM|pos=pron_rel|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=i|cas=u|per=na|rat=y|token_type=baseword	25	nsubj	_	_
+25	يفهمون	فهم	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=i|vox=a|mod=i|gen=m|num=p|stt=na|cas=na|per=3|rat=n|token_type=baseword	22	acl:relcl	_	_
+26	+ها	+ها	PRON	_	catib6=NOM|pos=pron|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=d|cas=a|per=3|rat=na|token_type=enc0	25	obj	_	_
+27	.	.	PUNCT	_	catib6=PNX|pos=punc|prc3=na|prc2=na|prc1=na|prc0=na|enc0=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	2	punct	_	_
+
+# sent_id = s8
+# text = جرب بنفسك أن تبدو ضعيفًا مرة واحدة أمام واحد من هؤلاء وانظر ماذا يفعل بك.
+1	جرب	جرب	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=p|vox=a|mod=i|gen=m|num=s|stt=na|cas=na|per=3|rat=n|token_type=baseword	0	root	_	_
+2	ب+	ب+	ADP	_	catib6=PRT|pos=prep|prc3=0|prc2=0|prc1=0|prc0=na|per=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|enc0=0|rat=na|token_type=prc1	3	case	_	_
+3	نفس	نفس	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|per=na|asp=na|vox=na|mod=na|gen=m|num=s|stt=c|cas=g|enc0=0|rat=i|token_type=baseword	1	obl	_	_
+4	+ك	+ك	PRON	_	catib6=NOM|pos=pron|prc3=0|prc2=0|prc1=0|prc0=0|per=2|asp=na|vox=na|mod=na|gen=m|num=s|stt=d|cas=g|enc0=0|rat=na|token_type=enc0	3	nmod	_	_
+5	أن	أن	SCONJ	_	catib6=PRT|pos=conj_sub|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	6	mark	_	_
+6	تبدو	بدا	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=i|vox=a|mod=u|gen=f|num=s|stt=na|cas=na|per=3|rat=n|token_type=baseword	1	ccomp	_	_
+7	ضعيفا	ضعيف	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=i|cas=a|per=na|rat=i|token_type=baseword	6	xcomp	_	_
+8	مرة	مرة	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=i|cas=a|per=na|rat=i|token_type=baseword	6	obl	_	_
+9	واحدة	واحد	NUM	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=f|num=s|stt=i|cas=a|per=na|rat=n|token_type=baseword	8	amod	_	_
+10	أمام	أمام	NOUN	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=c|cas=a|per=na|rat=i|token_type=baseword	11	case	_	_
+11	واحد	واحد	NUM	_	catib6=NOM|pos=noun|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=i|cas=g|per=na|rat=n|token_type=baseword	6	obl	_	_
+12	من	من	ADP	_	catib6=PRT|pos=prep|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	13	case	_	_
+13	هؤلاء	هذا	DET	_	catib6=NOM|pos=pron_dem|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=p|stt=i|cas=u|per=na|rat=y|token_type=baseword	11	nummod	_	_
+14	و+	و+	CCONJ	_	catib6=PRT|pos=conj|prc3=0|prc2=0|prc1=0|prc0=na|per=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|enc0=0|rat=na|token_type=prc2	15	cc	_	_
+15	NOAN	انظر	PROPN	_	catib6=PROP|pos=noun_prop|prc3=0|prc2=0|prc1=0|prc0=0|per=na|asp=na|vox=na|mod=na|gen=-|num=-|stt=i|cas=u|enc0=0|rat=i|token_type=baseword	1	conj	_	_
+16	ماذا	ماذا	PRON	_	catib6=NOM|pos=pron_interrog|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=i|cas=u|per=na|rat=y|token_type=baseword	1	conj	_	_
+17	يفعل	فعل	VERB	_	catib6=VRB|pos=verb|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=i|vox=a|mod=u|gen=m|num=s|stt=na|cas=na|per=3|rat=n|token_type=baseword	16	acl	_	_
+18	ب	ب	ADP	_	catib6=PRT|pos=prep|prc3=0|prc2=0|prc1=0|prc0=na|enc0=0|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	19	case	_	_
+19	+ك	+ك	PRON	_	catib6=NOM|pos=pron|prc3=0|prc2=0|prc1=0|prc0=0|enc0=0|asp=na|vox=na|mod=na|gen=m|num=s|stt=d|cas=u|per=2|rat=na|token_type=enc0	17	obl	_	_
+20	.	.	PUNCT	_	catib6=PNX|pos=punc|prc3=na|prc2=na|prc1=na|prc0=na|enc0=na|asp=na|vox=na|mod=na|gen=na|num=na|stt=na|cas=na|per=na|rat=na|token_type=baseword	1	punct	_	_
